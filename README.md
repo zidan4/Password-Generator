@@ -1,8 +1,8 @@
 # Password-Generator
 
-freeCodeCamp Practice Project
+freeCodeCamp Practice Project.
 
-Scientific Computing with Python
+Scientific Computing with Python.
 
 
 A Python module is a file that contains a set of statements and definitions that you can use in your code.
